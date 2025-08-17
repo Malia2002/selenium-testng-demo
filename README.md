@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/21823744/README.md)[Uploading README.md…]# Selenium TestNG Demo 
+# Selenium TestNG Demo 
 
 This project demonstrates automated testing using Selenium WebDriver, Java, and TestNG.
 
